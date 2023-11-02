@@ -8,5 +8,9 @@ text-align: center;
 
 body {
   font-family: Arial;
+}
+
+* {
   background-color: #121212;
+  color: white;
 }
